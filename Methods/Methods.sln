@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintLogo", "PrintLogo\PrintLogo.csproj", "{37BF18B5-D65E-41AA-AC67-C5F1CEF763AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverload", "MethodOverload\MethodOverload.csproj", "{4862BA3C-58D1-49FE-AA99-CB0CC5D663EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnValue", "ReturnValue\ReturnValue.csproj", "{3434A039-3DE8-4BF6-BB23-81577D7E8BAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReturnBool", "ReturnBool\ReturnBool.csproj", "{DF823A6C-3032-41DC-B0A5-CEF03EE0BEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37BF18B5-D65E-41AA-AC67-C5F1CEF763AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BF18B5-D65E-41AA-AC67-C5F1CEF763AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BF18B5-D65E-41AA-AC67-C5F1CEF763AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BF18B5-D65E-41AA-AC67-C5F1CEF763AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4862BA3C-58D1-49FE-AA99-CB0CC5D663EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4862BA3C-58D1-49FE-AA99-CB0CC5D663EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4862BA3C-58D1-49FE-AA99-CB0CC5D663EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4862BA3C-58D1-49FE-AA99-CB0CC5D663EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3434A039-3DE8-4BF6-BB23-81577D7E8BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3434A039-3DE8-4BF6-BB23-81577D7E8BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3434A039-3DE8-4BF6-BB23-81577D7E8BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3434A039-3DE8-4BF6-BB23-81577D7E8BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF823A6C-3032-41DC-B0A5-CEF03EE0BEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF823A6C-3032-41DC-B0A5-CEF03EE0BEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF823A6C-3032-41DC-B0A5-CEF03EE0BEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF823A6C-3032-41DC-B0A5-CEF03EE0BEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C29DCB7B-CCC7-41AE-A695-397006101946}
+	EndGlobalSection
+EndGlobal

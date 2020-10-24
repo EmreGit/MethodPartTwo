@@ -10,12 +10,14 @@ namespace RefKeyWord
     {
         static void Main(string[] args)
         {
+
             int numberOne = 5;
-            IncreaseByOne(numberOne);
+            IncreaseByOne(ref numberOne);
 
             Console.WriteLine($"The value is: {numberOne}");
         }
-        static void IncreaseByOne(int number)
+        //ref's value is in the caller ^^^^
+        static void IncreaseByOne(ref int number)
         {
             number++;
         }
